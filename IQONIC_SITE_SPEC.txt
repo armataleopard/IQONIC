@@ -1,0 +1,69 @@
+🔥 TECHNICAL SPECIFICATION: MEMECOIN WEBSITE — IQONIC ($HEET)
+
+🎯 OVERVIEW:
+IQONIC is a meme coin inspired by the sleek, cold, synthetic aesthetic of IQOS culture. The website should reflect a hypermodern, luxurious-yet-void aesthetic — think vapor clouds, synthetic identity, and ironic wealth. Visuals should match a high-end fashion dystopia. This is not a joke coin — this is an *aesthetic event*.
+
+🖥️ GENERAL STRUCTURE:
+- No traditional homepage layout. Structure should feel fragmented and exclusive, like discovering a high-end secret club.
+- Page sections should animate into view or glitch into focus.
+- Color palette: smoky gray, menthol blue, acidic lavender, soft chrome.
+- Use modern typography (e.g., Neue Montreal, Satoshi, or other luxury fonts).
+- Interactive smoke/vapor hover effects.
+
+🌫️ PAGE STRUCTURE & MODULES:
+
+1. **HERO SECTION** (fullscreen):
+    - Centered large logo: “IQONIC” — shimmering chrome or animated.
+    - Beneath: “$HEET” in vapor-glitched motion font.
+    - Subtext: `LAUNCHING AT PUMP.FUN` (animated typing effect)
+    - Buttons: 
+        - [Twitter] (with custom cursor on hover — cigarette burns or vapor trails)
+        - [Telegram] (same hover animation)
+    - Light animated vapor drifting across screen. Mouse movement affects direction of smoke.
+
+2. **INTERACTIVE ZONE – "CHOOSE YOUR MOOD"**:
+    - 3 vape clouds appear as blobs, each clickable.
+    - On hover: reveals an animated title (e.g., “Menthol Meltdown”, “Velvet Ego”, “Synthetic Burn”)
+    - On click: opens full-screen short animated story with sound/motion.
+    - Design: surreal, glitchy, rich in neon grain and haze.
+
+3. **STORY GALLERY – “HEET LORE”**
+    - Scroll-triggered animation to display the following 5 surreal stories:
+      - Full-screen cards with animated borders.
+      - Each one flips/expands on click to show full text.
+      - Short background loop (smoke/flickering lights).
+
+      📖 **5 VAPE LORE STORIES**:
+
+      1. *THE CIGARETTE THAT CRASHED ETHEREUM*  
+         They said it was just a prototype vape. But one puff turned into a gas fee spike that collapsed the network. The dev vaped in silence, watching nodes fall. “It’s not a bug,” he whispered. “It’s a lifestyle.” He was never seen again. Only smelled.
+
+      2. *THE GIRL WHO SMOKED A WALLET*  
+         She stored her seed phrase in a vape pod. It tasted like burned citrus and guilt. Every puff made her richer—but lonelier. On the last drag, her portfolio hit $0.00. The pod blinked twice. “Trust no scent,” it said.
+
+      3. *THE BOUNCER AT CLUB IQONIC*  
+         He didn’t check IDs. He checked aroma. If you didn’t smell like desperation and designer sadness, you weren’t getting in. One night, someone came smelling like hope. He hasn’t let anyone in since.
+
+      4. *THE NFT THAT EXHALED BACK*  
+         You minted it. You stared. It blinked. Then it vaped. It whispered: “Sell me and I sell you.” You did. Your MetaMask password was never yours again.
+
+      5. *THE DAY IT RAINED MENTHOL*  
+         Solana crashed. The sky cracked. A minty fog rolled in. Phones fried. TikToks melted. Influencers forgot how to dance. Only the $HEET holders survived—breathing deep and tweeting memes from analog devices.
+
+4. **FOOTER ZONE**:
+    - Vapor trail on scroll hover.
+    - Repeating text marquee: “IQONIC – $HEET – VAPOR IS VALUE – PUMP.FUN”
+    - External links to Twitter / Telegram / Pump.fun.
+
+🌀 ANIMATIONS & EFFECTS:
+- Glitch-in reveal transitions.
+- Smoke on scroll.
+- Interactive cursor with vapor tail.
+- Hovering any $HEET logo element should release smoke puff effect.
+- Typing effect for all taglines and quotes.
+
+🎨 VISUAL & STYLE INSPIRATION:
+- Balenciaga lookbooks
+- Blade Runner 2049
+- Vaporwave glitch posters
+- High-end vape packaging
